@@ -10,7 +10,7 @@ Linux
 	Then run "make"
 	
 Windows
-	Install Visual Studio, cmake, cuda
+	Install Visual Studio, cuda, cmake(select "add to path" when installing)
 	Open cmd. Run "cmake".
 	Double click hetero.sln and build.
 	
