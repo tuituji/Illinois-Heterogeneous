@@ -2,6 +2,9 @@ Illinois-Heterogeneous
 ======================
 
 Illinois "Heterogeneous Parallel Programming" by Wen-mei W. Hwu
+http://webgpu.hwu.crhc.illinois.edu/
+https://www.coursera.org/course/hetero
+
 
 All assignment in skel/*
 
